@@ -1,0 +1,8 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/dfaebc50-6caa-47df-89ad-708d141489a6/resourceGroups/dory-nodeapp-rd/providers/Microsoft.Web/sites/dorynodeapp1",
+    "appService.deploySubpath": "."
+}
